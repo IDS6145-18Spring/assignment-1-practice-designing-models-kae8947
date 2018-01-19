@@ -1,13 +1,10 @@
-## Smart City (My Problem) Model - Object Diagram
+## Smart City Renewable Energy of the Self Model - Object Diagram
 
-(remove: provide a description of the current model you describe below)
+This object diagram contains all of the elements necessary for a simplified Renewable Energy of the Self (or "Plant People") model.
+This includes both the main input, Sunlight, and the main output, Heat.
+The Human element is composed of many cells, and the cells are composed of Chloroplasts, Mitochondria, as well as molecules and processes (e.g., Glycolysis) that take place in the cytoplasm of the cell. 
 
-(remove: use images!!!)
-(remove: I added an example image to illustrate [**how to use Markdown**](https://guides.github.com/features/mastering-markdown/), maybe consider a tool like [**Haroodpad**](http://pad.haroopress.com/user.html) )
 
-![Example Object Diagram](../images/class_example_diagram.png)
+![Object Diagram](../images/ObjectDiagram.png)
 
-(remove: More decription)
-(remove: Maybe a second or third diagram to highlight a point or aspect)
-
-(remove: each diagram markdown file should roughly follow this template)
+This system design allows for the manipulation of energy input through increasing/decreasing sunlight intensity as well as by adding additional amounts of intercellular molecules. These molecules are exchanged throughout the photosynthetic and metabolic processes. 
