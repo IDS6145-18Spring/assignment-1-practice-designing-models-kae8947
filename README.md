@@ -23,14 +23,14 @@ Sunlight will be a requirement by the human's cells in order to create the energ
 
 The base integrated system will take in sunlight from the environment and convert the sunlight to heat through a set of processes. 
 
-Process 1 SunlightEnters 
-Process 2 PhotoSystem
-Process 3 CalvinCycle
-Process 4 Glycolysis
-Process 5 KrebsCycle
-Process 6 ElectronTransportSystem
-Process 7 HeatReleased(Does Work)
-^ Back to Process 1
+* Process 1 SunlightEnters 
+* Process 2 PhotoSystem
+* Process 3 CalvinCycle
+* Process 4 Glycolysis
+* Process 5 KrebsCycle
+* Process 6 ElectronTransportSystem
+* Process 7 HeatReleased(Does Work)
+* ^ Back to Process 1
 
 
 ## Smart City Renewable Energy of the Self Model
@@ -45,7 +45,7 @@ This Renewable Energy of the Self Model is used to describe the integration and 
 ## Smart City Renewable Energy of the Self Simulation
 
 I would simulate this data utilizing a discrete-event based simulation because the processes change based on current states of other subsystems. The inputs for this simulation would include changing the intensity of sunlight and the amount of other molecules(e.g., ATP, NADH, NADPH, Oxygen, Carbon Dioxide, Glucose, Pyruvate) within the system. The output of this system is the work and heat produced by the energy cycle. Some of the inputs and outputs of individual subsystems loop throughout the system. Using this simulation I could compare how much energy is consumed versus how much energy is released by the system. For the system to be feasible, it would need to create enough energy to maintain itself. For the system to be efficient, it would need to create more energy than it needs to maintain itself.
-[**Katy Odette**](analysis/README.md) 
+* [**Discrete-Event Simulation**](analysis/README.md) 
 
 
 ## Smart City Renewable Energy of the Self Model
